@@ -197,9 +197,9 @@ public class QuestionDisplay extends JFrame {
         int selectedCount = selectedAnswers.size();
 
         // Penalización por no seleccionar ninguna respuesta o seleccionar más de dos
-        if (selectedCount == 0 || selectedCount > correctAnswers.size()) {
-            return -10; // Penalización de 10 puntos
-        }
+        // if (selectedCount == 0 || selectedCount > correctAnswers.size()) {
+        //    return -10; // Penalización de 10 puntos
+        //}
 
         // Verificar si se seleccionaron todas las respuestas correctas
         boolean hasAllCorrectAnswers = selectedAnswers.containsAll(correctAnswers) && selectedCount == correctAnswers.size();

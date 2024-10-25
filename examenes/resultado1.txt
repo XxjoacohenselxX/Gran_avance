@@ -236,3 +236,581 @@ Respuestas seleccionadas: []
 Resultado: Incorrecta
 
 ========================================
+Examen 1: Puntuación total: -70
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: -30
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a, b, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [b]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [d]
+Resultado: Correcta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [b]
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: -80
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: -80
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: -80
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 710
+Pregunta: Pregunta java
+Respuestas seleccionadas: [b]
+Resultado: Correcta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [c]
+Resultado: Correcta
+
+========================================
+Examen 1: Puntuación total: 70
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [b]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [c]
+Resultado: Correcta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+========================================
+Examen 1: Puntuación total: 40
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 60
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a, b]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a]
+Resultado: Correcta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [b]
+Resultado: Correcta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a, b, d]
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b, c]
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [b, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a, c]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, c]
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: []
+Resultado: Incorrecta
+
+========================================
+Examen 1: Puntuación total: 0
+Pregunta: Pregunta sobre sobrecarga de métodos
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta sobre colecciones
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta Java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+Pregunta: Pregunta java
+Respuestas seleccionadas: [a, b, c, d]
+Resultado: Incorrecta
+
+========================================
