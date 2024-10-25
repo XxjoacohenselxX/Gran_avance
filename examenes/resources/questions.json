@@ -23,10 +23,10 @@
       }
     ],
     "points": 10,
-    "answers": [ [ "b" ] ]
+    "answers": [["b"]]
   },
   {
-    "title": "Pregunta java ",
+    "title": "Pregunta java",
     "category": "MCQ",
     "stimulus": "Syntax Rules",
     "prompt": "¿Cómo se declara una variable de tipo entero en Java?",
@@ -49,10 +49,10 @@
       }
     ],
     "points": 10,
-    "answers": [ [ "a"] ]
+    "answers": [["a"]]
   },
   {
-    "title": "Pregunta Java ",
+    "title": "Pregunta Java",
     "category": "MCQ",
     "stimulus": "Object-Oriented Programming",
     "prompt": "¿Qué es la encapsulación en Java?",
@@ -75,10 +75,10 @@
       }
     ],
     "points": 10,
-    "answers": [ [ "c" ] ]
+    "answers": [["c"]]
   },
   {
-    "title": "Pregunta Java ",
+    "title": "Pregunta Java",
     "category": "MCQ",
     "stimulus": "Inheritance Concept",
     "prompt": "¿Cómo se declara una clase que hereda de otra en Java?",
@@ -101,10 +101,10 @@
       }
     ],
     "points": 10,
-    "answers": [ [ "a" ] ]
+    "answers": [["a"]]
   },
   {
-    "title": "Pregunta Java ",
+    "title": "Pregunta Java",
     "category": "MCQ",
     "stimulus": "Interface Implementation",
     "prompt": "¿Cómo se define una interfaz en Java?",
@@ -127,10 +127,10 @@
       }
     ],
     "points": 10,
-    "answers": [ [ "a" ] ]
+    "answers": [["a"]]
   },
   {
-    "title": "Preguna Java ",
+    "title": "Pregunta Java",
     "category": "MCQ",
     "stimulus": "Exception Handling",
     "prompt": "¿Cómo se maneja una excepción en Java?",
@@ -153,6 +153,64 @@
       }
     ],
     "points": 10,
-    "answers": [ [ "a" ] ]
+    "answers": [["a"]]
+  },
+  {
+    "title": "Pregunta sobre sobrecarga de métodos",
+    "category": "MCQ",
+    "stimulus": "Sobrecarga de Métodos",
+    "prompt": "¿Cuáles de las siguientes afirmaciones son correctas sobre la sobrecarga de métodos en Java?",
+    "choices": [
+      {
+        "id": "a",
+        "content": "Puede haber múltiples métodos con el mismo nombre en la misma clase."
+      },
+      {
+        "id": "b",
+        "content": "Los métodos sobrecargados deben tener diferentes parámetros."
+      },
+      {
+        "id": "c",
+        "content": "La sobrecarga se puede lograr cambiando el tipo de retorno del método."
+      },
+      {
+        "id": "d",
+        "content": "Se puede sobrecargar un método cambiando el número de parámetros."
+      }
+    ],
+    "points": 10,
+    "answers": [
+      ["a"],
+      ["b"],
+      ["d"]
+    ]
+  },
+  {
+    "title": "Pregunta sobre colecciones",
+    "category": "MCQ",
+    "stimulus": "Colecciones en Java",
+    "prompt": "¿Cuáles de las siguientes clases forman parte de la interfaz List en Java?",
+    "choices": [
+      {
+        "id": "a",
+        "content": "ArrayList"
+      },
+      {
+        "id": "b",
+        "content": "HashMap"
+      },
+      {
+        "id": "c",
+        "content": "LinkedList"
+      },
+      {
+        "id": "d",
+        "content": "TreeSet"
+      }
+    ],
+    "points": 10,
+    "answers": [
+      ["a", "b"]
+    ]
   }
 ]
